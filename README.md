@@ -1,5 +1,10 @@
 <h1>Hi 👋, I'm  Claudio Melo</h1>
-<p>A passionate frontend developer from Chile</p>
+<p>A passionate frontend developer from Chile.
+🔧 Currently working on projects using JavaScript, Node.js, and web development  
+🌱 Continuously learning and improving my Full Stack development skills  
+🎯 Interested in building practical and scalable solutions  
+💡 Focused on real-world projects as part of my portfolio  
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
@@ -18,4 +23,4 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/clauubrand/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
+<p><a target="_blank" href="https://portafolio-web-9j09.onrender.com" style="display: inline-block;"></a></p>
